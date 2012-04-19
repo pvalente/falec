@@ -2,12 +2,11 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.pedrovalente.com/projetos/falec.rss">
-<title>Falec 1.1</title>
+<title>Falec 1.11</title>
 </head>
 
 <body>
-<a href="http://www.pedrovalente.com/projetos/falec.rss">Lista em RSS</a><br>
+
 <?php 
 
 setlocale(LC_ALL, "pt_BR");
